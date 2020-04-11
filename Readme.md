@@ -1,4 +1,4 @@
-# CallKit Extension for iOS
+# CallKit Tutorial for iOS
 
 Apple's CallKit framework for iOS is often used to create integrated VoIP apps for the iPhone..
 CallKit also lets you add numbers to the phone block list and Caller ID lists.  This is the capability we explore in this tutorial.
@@ -9,9 +9,6 @@ In this tutorial you will create:
 * A CallKit extension that provides these lists to the iOS phone app.
 
 The full tutorials can be found at:
-
-* [CallKit extension for iOS - Part 1](https://pusher.com/tutorials/callkit-ios-part-1)
-* [CallKit extension for iOS - Part 2](https://pusher.com/tutorials/callkit-ios-part-2)
 
 ## Getting Started
 
@@ -29,8 +26,3 @@ If you clone this repository, you will need to make some changes in Xcode to get
 * An iPhone (You cannot use the simulator to test CallKit extensions)
 * Familiarity with XCode and storyboards
 * Familiarity with general UIKit programming
-
-## Built With
-
-* [Swift](https://swift.org)
-* [Xcode](https://developer.apple.com)
